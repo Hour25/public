@@ -1,2 +1,2 @@
 # public
-Publish document for public use
+Publish documents for public use
